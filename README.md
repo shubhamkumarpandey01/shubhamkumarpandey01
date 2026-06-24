@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Kumar Pandey
 
-💻 Full-Stack Developer | B.Tech (ECE) Student | 2027 Batch.
+💻 Full-Stack Developer | Final-Year B.Tech Student(ECE) | 2027 Batch.
 🌐 Aspiring Software Engineer | React.js Developer | AI Enthusiast.
 🎯 Focused on FinTech, Full-Stack Development & AI Applications.
 
