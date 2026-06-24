@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Kumar Pandey
 
-<!--
-**shubhamkumarpandey01/shubhamkumarpandey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | B.Tech (ECE) Student | 2027 Batch
+🌐 Aspiring Software Engineer | React.js Developer | AI Enthusiast
+🎯 Focused on FinTech, Full-Stack Development & AI Applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Skills & Tools
+
+* **Languages:** Java, JavaScript, HTML, CSS
+* **Frameworks:** React.js, Node.js, Express.js, FastAPI
+* **Database:** MongoDB, MySQL
+* **Tools:** Git, GitHub, VS Code, Postman, Render, Vercel
+
+---
+
+# 🌱 Currently Learning
+
+* System Design
+* DevOps
+* Cloud Computing
+* AI Engineering
+
+---
+
+# 🤝 Looking To Collaborate On
+
+* Full-Stack Web Applications
+* FinTech Projects
+* AI & Automation Solutions
+* Open Source Contributions
+
+---
+
+# 📂 Featured Projects
+
+### 📈 Zerodha Clone
+
+Full-stack stock trading platform built using React.js, Node.js, Express.js & MongoDB.
+
+### 🤖 TransactionIQ AI Pipeline
+
+AI-powered transaction processing and categorization platform using FastAPI & Python.
+
+### 🛒 AmritBite E-Commerce
+
+Modern e-commerce platform with authentication and responsive UI.
+
+---
+
+# 📬 Connect With Me
+
+📧 [official.shubhamkumarpandey@gmail.com](mailto:official.shubhamkumarpandey@gmail.com)
+
+💼 LinkedIn: Shubham Kumar Pandey
+
+🐙 GitHub: shubhamkumarpandey01
