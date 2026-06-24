@@ -53,6 +53,6 @@ Modern e-commerce platform with authentication and responsive UI.
 
 📧 [official.shubhamkumarpandey@gmail.com](mailto:official.shubhamkumarpandey@gmail.com)
 
-💼 LinkedIn: [Shubham Kumar Pandey](https://www.linkedin.com/in/shubham-kumar-pandey-08a6b0298)
+💼 LinkedIn: [Shubham Kumar Pandey](https://www.linkedin.com/in/shubham-kumar-pandey-92aa25336)
 
 🐙 GitHub: [shubhamkumarpandey01](https://github.com/shubhamkumarpandey01)
